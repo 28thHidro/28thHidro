@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:hp24122015@gmail.com"><img src="https://img.shields.io/badge/Email-hp24122015@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://dhtech.id.vn"><img src="https://img.shields.io/badge/Website-dhtech.id.vn-00B4FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+   <a href="mailto:hp24122015@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://dhtech.id.vn"><img src="https://img.shields.io/badge/DH%20tech-Website-00B4FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
 </p>
 
 ---
